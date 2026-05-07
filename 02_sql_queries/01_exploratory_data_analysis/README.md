@@ -40,10 +40,10 @@ Covers low to high income segments → good for segmentation.
 
 ---  
 **Overall Summary:**  
-The dataset is mostly clean, with no duplicates or missing critical values in fact tables.  
-There are 209 products with missing category hierarchy, labeled as "Unknown Category," which is a limitation to note.  
-Strong referential integrity exists between tables, ensuring reliable joins.  
-The data is ready for deeper analysis, including trend evaluation, customer segmentation, and performance assessment.
+The dataset is mostly clean, with no duplicate records or missing critical values in fact tables.  
+Valid table relationships, ensuring reliable joins.  
+No data quality issues were identified, and the dataset is considered analysis-ready.
+
 
 
 
