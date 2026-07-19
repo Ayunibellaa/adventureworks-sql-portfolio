@@ -63,7 +63,8 @@ It includes detailed information on:
 
 ### 𝄜 Analysis:  
 
-To evaluate business growth, I analyzed annual sales trends, Year-over-Year growth, monthly performance, running totals, and moving averages. I also compared performance across US states to identify regional trends and seasonality.
+To evaluate business growth, I analyzed annual sales trends, Year-over-Year growth, monthly performance, running totals, and moving averages. I also compared performance across US states to identify regional trends and seasonality.  
+[Trend Analysis Query](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/blob/main/02_sql_queries/02_trend_analysis.sql)
 
 ### 💡 Insights:  
 
@@ -72,6 +73,8 @@ To evaluate business growth, I analyzed annual sales trends, Year-over-Year grow
 - Sales peaked during Q4 (October–December).
 - Running totals showed continuous long-term growth.
 - California contributed the majority of revenue growth.
+
+See the results here: [Screenshoot Trend Analysis](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/tree/main/03_screenshots/02_trend_analysis)
 
 ### 🤔 So What
 
@@ -89,7 +92,8 @@ These findings indicate strong seasonality and heavy dependence on California. B
 
 ### 𝄜 Analysis:  
 
-Customers were segmented by loyalty and annual income to evaluate purchasing behavior, average order value, revenue contribution, and preferred product categories.
+Customers were segmented by loyalty and annual income to evaluate purchasing behavior, average order value, revenue contribution, and preferred product categories.  
+[Customer Analysis Query](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/blob/main/02_sql_queries/03_customer_analysis.sql)
 
 ### 💡 Insights:  
 
@@ -97,6 +101,8 @@ Customers were segmented by loyalty and annual income to evaluate purchasing beh
 - Long-Term Customers generated the highest Average Order Value.
 - Middle-Income customers produced the largest sales.
 - Bikes dominated spending across every income segment.
+
+See the results here: [Screenshoot Customer Analysis](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/tree/main/03_screenshots/03_customer_analysis)
 
 ### 🤔 So What
 These findings indicate strong seasonality and heavy dependence on California. Businesses should prepare inventory before Q4 while expanding growth strategies into other states to reduce market concentration.
@@ -113,13 +119,16 @@ These findings indicate strong seasonality and heavy dependence on California. B
 
 ### 𝄜 Analysis:  
 
-Product categories and individual products were ranked based on revenue contribution across all years and annually.
+Product categories and individual products were ranked based on revenue contribution across all years and annually.  
+[Product Revenue Analysis Query](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/blob/main/02_sql_queries/04_product_analysis.sql)
 
 ### 💡 Insights:  
 
 - Bikes generated approximately 96% of total revenue.
 - Revenue became slightly more diversified in 2013.
 - Road Bikes and Mountain Bikes consistently ranked as the best-selling products.
+
+See the results here: [Screenshoot Product Analysis](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/tree/main/03_screenshots/04_product_analysis)
 
 ### 🤔 So What
 
@@ -137,13 +146,16 @@ Although Bikes remain the core business, growing Accessories and Clothing could 
 
 ### 𝄜 Analysis:  
 
-Sales, cost, profit, and profit margins were calculated for both product categories and individual products.
+Sales, cost, profit, and profit margins were calculated for both product categories and individual products.  
+[Product Profitability Analysis Query](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/blob/main/02_sql_queries/05_profitability_analysis.sql)
 
 ### 💡 Insights:  
 
 - Bikes generated the highest total profit.
 - Accessories achieved the highest profit margin (62.6%).
 - Road-150 and Mountain-200 products consistently produced the largest profits.
+
+See the results here: [Screenshoot Profitability Analysis](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/tree/main/03_screenshots/05_profitability_analysis)
 
 ### 🤔 So What
 
@@ -160,7 +172,8 @@ The company should continue investing in Bikes while increasing sales of Accesso
 
 ### 𝄜 Analysis:  
 
-Sales performance was analyzed across US states by measuring revenue contribution, active customers, active cities, and product category performance.
+Sales performance was analyzed across US states by measuring revenue contribution, active customers, active cities, and product category performance.  
+[Geographic Analysis Query](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/blob/main/02_sql_queries/06_geographic_analysis.sql)
 
 ### 💡 Insights:  
 
@@ -168,6 +181,8 @@ Sales performance was analyzed across US states by measuring revenue contributio
 - Washington and Oregon ranked as the next strongest markets.
 - Many states contributed only a small percentage of total sales.
 - California consistently maintained market leadership.
+
+See the results here: [Screenshoot Geographic Analysis](https://github.com/Ayunibellaa/SQL_Project_Data_Analysis/tree/main/03_screenshots/06_geographic_analysis)
 
 ### 🤔 So What
 
